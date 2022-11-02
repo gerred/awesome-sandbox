@@ -20,6 +20,7 @@ To contribute, submit a pull request. New sections and projects are welcome. Thi
   - [Example Addons](#example-addons)
   - [Libraries](#libraries)
     - [Graphics](#graphics)
+    - [Networking](#networking)
   - [Tools](#tools)
 
 ## Official Resources
@@ -39,6 +40,10 @@ To contribute, submit a pull request. New sections and projects are welcome. Thi
 ### Graphics
 
 - [sbox-csg](https://github.com/Facepunch/sbox-csg) - A simple real-time CSG library for S&box
+
+### Networking
+
+- [s-box-frp](https://github.com/Arr-n-D/s-box-frp) - WebSocket-based networking for communicating between servers or external services
 
 ## Tools
 
