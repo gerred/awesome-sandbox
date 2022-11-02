@@ -20,7 +20,7 @@ To contribute, submit a pull request. New sections and projects are welcome. Thi
   - [Example Addons](#example-addons)
   - [Libraries](#libraries)
     - [Graphics](#graphics)
-    - [Tools](#tools)
+  - [Tools](#tools)
 
 ## Official Resources
 
@@ -40,6 +40,7 @@ To contribute, submit a pull request. New sections and projects are welcome. Thi
 
 - [sbox-csg](https://github.com/Facepunch/sbox-csg) - A simple real-time CSG library for S&box
 
-### Tools
+## Tools
 
+- [sbox-quixel-bridge](https://github.com/xezno/sbox-quixel-bridge) - Quixel bridge tool for s&box
 - [sbox-voxelatlas](https://github.com/Facepunch/sbox-voxelatlas) - A simple tool for creating an atlas for use with the sbox-voxels framework.
