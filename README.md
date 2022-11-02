@@ -29,10 +29,10 @@ To contribute, submit a pull request. New sections and projects are welcome. Thi
 
 ## Example Addons
 
+- [Core Wars](https://github.com/Facepunch/sbox-corewars) - A voxel-based PVP game where multiple teams fight to destroy their enemy's Core to prevent them from respawning.
 - [Cryptid Hunt](https://github.com/Small-Fish-Dev/Cryptid-Hunt)
 - [sandbox](https://github.com/Facepunch/sandbox) - Garry's Mod for S&box
 - [Unicycle Frenzy](https://github.com/Facepunch/sbox-unicycle-frenzy)
-- [Core Wars](https://github.com/Facepunch/sbox-corewars) - A voxel-based PVP game where multiple teams fight to destroy their enemy's Core to prevent them from respawning.
 
 ## Libraries
 
