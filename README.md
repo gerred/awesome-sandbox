@@ -17,7 +17,7 @@ To contribute, submit a pull request. New sections and projects are welcome. Thi
 - [Awesome s&box](#awesome-sbox)
   - [Table of Contents](#table-of-contents)
   - [Official Resources](#official-resources)
-  - [Example Addons](#example-addons)
+  - [Addons](#addons)
   - [Libraries](#libraries)
     - [Graphics](#graphics)
     - [Networking](#networking)
@@ -28,7 +28,7 @@ To contribute, submit a pull request. New sections and projects are welcome. Thi
 - [S&box API Documentation](https://asset.party/api/)
 - [S&box wiki](https://wiki.facepunch.com/sbox/)
 
-## Example Addons
+## Addons
 
 - [Core Wars](https://github.com/Facepunch/sbox-corewars) - A voxel-based PVP game where multiple teams fight to destroy their enemy's Core to prevent them from respawning.
 - [Cryptid Hunt](https://github.com/Small-Fish-Dev/Cryptid-Hunt)
